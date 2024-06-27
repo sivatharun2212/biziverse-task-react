@@ -206,7 +206,7 @@
 .edit-cont img {
 	width: 70%;
 }
-.table tr:nth-child(even) {
+.dataWrapper .customerRow:nth-of-type(odd) {
 	background-color: rgba(173, 162, 173, 0.479);
 }
 .pagination {
